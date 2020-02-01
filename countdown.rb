@@ -2,7 +2,7 @@
 
 def countdown(number)
   while numnber > 0  
-  puts number
-  number -= 1 
+    puts number
+    number -= 1 
   end
 end
